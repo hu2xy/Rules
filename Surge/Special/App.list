@@ -1,0 +1,49 @@
+// DS
+DOMAIN-SUFFIX,maying.co
+DOMAIN-SUFFIX,dler.cloud
+DOMAIN-SUFFIX,yunxiao.us
+DOMAIN-SUFFIX,wangzi.edu.pl
+DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,evernote.com
+DOMAIN-SUFFIX,doub.io
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN-SUFFIX,pcbeta.com
+DOMAIN-SUFFIX,devolutions.net
+DOMAIN-SUFFIX,v2ex.com
+
+// DK
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,telegram
+DOMAIN-KEYWORD,dlercloud
+
+
+// Client
+PROCESS-NAME,Tweetbot
+PROCESS-NAME,Twitter
+PROCESS-NAME,Dropbox
+PROCESS-NAME,Facebook
+PROCESS-NAME,Spotify
+PROCESS-NAME,Day One
+PROCESS-NAME,Backup and Sync
+
+// UA
+USER-AGENT,Instagram*
+USER-AGENT,WhatsApp*
+
+// Spark
+DOMAIN-SUFFIX,api.amplitude.com
+DOMAIN-SUFFIX,app.smartmailcloud.com
+DOMAIN-SUFFIX,gate.hockeyapp.net
+DOMAIN-SUFFIX,smartmailcloud.com
