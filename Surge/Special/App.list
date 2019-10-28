@@ -28,7 +28,7 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,dlercloud
-
+DOMAIN-KEYWORD,apkpure
 
 // Client
 PROCESS-NAME,Tweetbot
